@@ -46,5 +46,5 @@ https://github.com/kalaiii2618/jarvis-local-ai
 ## 📫 Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/kalai-selvan-r-p-583079378
+www.linkedin.com/in/kalai-selvan-r-p-583009378
 
