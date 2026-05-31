@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Kalai 👋
 
-<!--
-**kalaiii2618/kalaiii2618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer | Python Engineer | Local LLMs, Voice AI & Automation
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Jarvis Local AI Assistant
+
+A fully local AI voice assistant powered by:
+
+* Faster-Whisper
+* Qwen 2.5
+* Piper TTS
+* Qdrant Memory
+
+Features:
+
+* Wake-word activation
+* Voice commands
+* Application launching
+* Google search
+* YouTube search
+* Conversational memory
+* Offline execution
+
+Repository:
+https://github.com/kalaiii2618/jarvis-local-ai
+
+## 🛠️ Tech Stack
+
+* Python
+* Ollama
+* Qwen
+* Faster-Whisper
+* Piper
+* Qdrant
+* Git
+* GitHub
+
+## 🌱 Currently Learning
+
+* AI Agents
+* Local AI Workflows
+* Open Source Development
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/kalai-selvan-r-p-583079378
+
